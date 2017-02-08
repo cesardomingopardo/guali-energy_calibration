@@ -1,4 +1,4 @@
-//gROOT->Reset();
+//gROOT->Reset(); // no need for this
 
 // c/c++ headers
 #include <iostream>
